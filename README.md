@@ -6,6 +6,6 @@ This software is an iOS client for the mobilepsu-api. The MobilePSU app is an on
 
 ## Screenshots
 
-![alt tag](https://raw.githubusercontent.com/piperamirez/perihelion/master/doc/mobilepsu-screenshot1.png)
-![alt tag](https://raw.githubusercontent.com/piperamirez/perihelion/master/doc/mobilepsu-screenshot2.png)
-![alt tag](https://raw.githubusercontent.com/piperamirez/perihelion/master/doc/mobilepsu-screenshot3.png)
+![alt tag](https://raw.githubusercontent.com/piperamirez/mobilepsu-ios/master/doc/mobilepsu-screenshot1.png)
+![alt tag](https://raw.githubusercontent.com/piperamirez/mobilepsu-ios/master/doc/mobilepsu-screenshot2.png)
+![alt tag](https://raw.githubusercontent.com/piperamirez/mobilepsu-ios/master/doc/mobilepsu-screenshot3.png)
